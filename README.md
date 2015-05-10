@@ -37,6 +37,5 @@ The goal of the Flyweight is to save space. So the question is how much space do
 for sample documents. To answer this question on have to be able to compute the space of
 objects. For example on a 64bit machine an empty object in Java takes up 16 bytes, a font object
 takes up 72 bytes. A tool to measure the size of Java objects can be found at:
-http://java.dzone.com/articles/java-getting-size-object. Later I will give you some data from
-sample documents. You will use the data to compute how much space using flyweights saves.
+http://java.dzone.com/articles/java-getting-size-object. And to compute how much space using flyweights saves.
 
