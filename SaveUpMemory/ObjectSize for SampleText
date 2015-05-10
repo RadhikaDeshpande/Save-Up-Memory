@@ -1,0 +1,17 @@
+Sample Text Information
+
+The sample text contains a total of 326 characters. There are 54 different characters in the
+text. There are two font runs. The first run contains 115 characters. The second run contains
+211 characters.
+The following chart indicates the frequency of the characters in the text. For example there is
+one character (4) that occurred four times, there are two characters (n, t) that occurred 18
+times each in the text.
+
+Output
+The average size of CharacterFlyweight Object is 16.0 bytes
+The average size of Font Object is 72.0 bytes
+The average size of CharacterFactory Object is 64.0 bytes
+The average size of FontFactory Object is 64.0 bytes
+The average size of RunArray Object is 72.0 bytes
+The average size of FlyweightClient Object is 1232.0 bytes
+The average size of NonFlyweight Object is 30024.0 bytes
